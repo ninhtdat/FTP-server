@@ -1,1 +1,3 @@
 # FTP-server
+
+run makefile
